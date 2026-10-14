@@ -1,0 +1,45 @@
+{
+  "loja_versao": "1.0.0",
+  "atualizado_em": "2026-10-13",
+  "contato": "seu@email.com",
+  "privacidade_url": "https://SEUUSUARIO.github.io/minha-loja/privacy.html",
+  "termos_url": "https://SEUUSUARIO.github.io/minha-loja/terms.html",
+  "apps": [
+    {
+      "id": "app1",
+      "nome": "Nome do App 1",
+      "descricao": "Descrição curta do app.",
+      "versao": "1.0.0",
+      "tamanho_mb": 25.0,
+      "icone_url": "https://SEUUSUARIO.github.io/minha-loja/icons/app1.png",
+      "screenshots": [],
+      "downloads": {
+        "android": "https://github.com/SEUUSUARIO/minha-loja/releases/download/app1-v1.0.0/app1.apk",
+        "windows": "",
+        "linux": ""
+      },
+      "sha256": "",
+      "changelog": [
+        "Primeira versão"
+      ]
+    },
+    {
+      "id": "app2",
+      "nome": "Nome do App 2",
+      "descricao": "Descrição curta do app.",
+      "versao": "1.0.0",
+      "tamanho_mb": 18.0,
+      "icone_url": "https://SEUUSUARIO.github.io/minha-loja/icons/app2.png",
+      "screenshots": [],
+      "downloads": {
+        "android": "https://github.com/SEUUSUARIO/minha-loja/releases/download/app2-v1.0.0/app2.apk",
+        "windows": "",
+        "linux": ""
+      },
+      "sha256": "",
+      "changelog": [
+        "Primeira versão"
+      ]
+    }
+  ]
+}
